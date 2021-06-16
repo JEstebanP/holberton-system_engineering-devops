@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((TRUEKNOWLeval "$(ssh-agent -s)"EDGE + 128))
